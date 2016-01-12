@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://bateyt.github.io/lcc-learningcommunity
+title: LCC Learning Communities
+email: dbenson@lowercolumbia.edu
+author: David Benson
+description: > # "Write an awesome description for your new site here. 
+  This website is a repository of information on Learning Community offerings at Lower Columbia College.
+copyright: 'Copyright &copy; 2016 Your Name. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/SBootstrap
+  - title: github
+    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: 
