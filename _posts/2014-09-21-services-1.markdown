@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: WorkingTogether.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Theme-based courses
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  LCC Learning Communities allow students to earn credit for multiple courses through a themed curriculum. For the Winter 2016 Term, students participating in the Integrated Studies course Nutrional Pyschology earn a total of 10 credits---five credits each for NUTR&101 (Nutrition) and PSYC&100 (General Psychology).
